@@ -15,4 +15,7 @@ _
 ├──loops.c
 ├──functions.c
 ├──static_vars.c
+
 ```
+
+you can do almost anything using this all after this it gets a little higher level pointers and stuff  
