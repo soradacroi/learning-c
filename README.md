@@ -19,3 +19,5 @@ _
 ```
 
 you can do almost anything using this all after this it gets a little higher level pointers and stuff  
+
+// hi from laptop 
